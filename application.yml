@@ -9,13 +9,15 @@ spring:
   profiles: dev                      #开发环境
   application:
       name: cloud-config-dev
-
+config:
+  info:    this is dev
 ---
 spring:
   profiles: test                    #测试环境
   application:
        name: cloud-config-test
-
+config:
+  info:    this is test
 
 #请保存为utf-8字符集
   
