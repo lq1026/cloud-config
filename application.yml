@@ -16,6 +16,6 @@ spring:
        name: cloud-config-test
 
 
-#请保存为utf-8
+#请保存为utf-8字符集
   
    
