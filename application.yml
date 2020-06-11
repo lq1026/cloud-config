@@ -17,7 +17,7 @@ spring:
   application:
        name: cloud-config-test
 config:
-  info:    this is test 003
+  info:    this is test 004
 
 #请保存为utf-8字符集
   
